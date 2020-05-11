@@ -1,0 +1,27 @@
+
+
+
+
+Ansible
+
+######################################
+
+Ansible is allready pre-configured.
+
+Go to /etc/ansible
+
+make the .cfg file so that the ssh host_keys is set to false.
+
+make your hosts in the host file
+
+setup the vars for the hosts
+
+check with a ping command if the host is online.
+
+make a ansible-playbook for Windows server
+
+######################################
+
+write a configuration manual for the Ansible server.
+
+
