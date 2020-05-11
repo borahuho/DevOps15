@@ -1,6 +1,6 @@
 # DevOps15
 
-This vagrant will install 3 Linux Ubuntu machines, 2x node server and 1 ubuntu server with Ansible. This DevOps is to practice Ansible with Windows server.
+This vagrant will install 3 Linux Ubuntu machines, 2x node server and 1 ubuntu server with Ansible.
 It will add some default users, groups and directory's.
 This Vagrant is to practice with Ansible and Windows server.
 This repository is intended for educational purpose only.
